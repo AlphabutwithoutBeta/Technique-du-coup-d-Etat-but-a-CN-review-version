@@ -15,7 +15,6 @@
 
 .md document of each section will be uploaded here for mass correction. 
 
-<br>
 ### Update Sept 17. 2022
 A friend of mine refuse to renew this book after he found the 'revolutionary romanticism' inclination of Malaparte in this book
 
