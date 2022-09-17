@@ -1,4 +1,4 @@
-# Technique du coup d'Etat, but renewing it in the Seresian[^1]
+# Technique du coup d'Etat, but renewing it in Seresian[^1]
 
 ### Renewing a book published in 1931 by [Curzio Malaparte](https://en.wikipedia.org/wiki/Curzio_Malaparte), mentioned by [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek).
 <p align="center">
@@ -16,8 +16,10 @@
 .md document of each section will be uploaded here for mass correction. 
 
 <br>
+### Update Sept 17. 2022
 A friend of mine refuse to renew this book after he found the 'revolutionary romanticism' inclination of Malaparte in this book
 
 Well, it is valuable to look into it after all I would say, at least for the technique and anti-technique parts
+<br>
 
 [^1]: China was called "Seres" by Greek and Roman historians, or "State of Silk".
