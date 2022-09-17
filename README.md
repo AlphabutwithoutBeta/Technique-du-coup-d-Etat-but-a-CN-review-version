@@ -18,7 +18,7 @@
 ### Update Sept 17. 2022
 A friend of mine refuse to renew this book after he found the 'revolutionary romanticism' inclination of Malaparte in this book
 
-Well, it is valuable to look into it, at least for the technique and anti-technique parts
+Well, it is valuable to look into it still, at least for the technique and anti-technique parts
 <br>
 
 [^1]: China was called "Seres" by Greek and Roman historians, or "State of Silk".
