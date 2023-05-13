@@ -6,7 +6,7 @@
 </p>
 
 - The Eng-ver book was translated from Italian with accuracy, thus worth referring to in current work. 
-<p>
+<p align="center">
 <img src="https://github.com/AlphabutwithoutBeta/Technique-du-coup-d-Etat-but-a-CN-review-version/blob/main/directory/01462c3adf275d12d194df49d0f6e6c.jpg" alt="The Technique Of Revolution" height="595" width="439"/>
 <img src="https://github.com/AlphabutwithoutBeta/Technique-du-coup-d-Etat-but-a-CN-review-version/blob/main/directory/62485aab6739bd97e1b78c02aa70c08.jpg" alt="变乱与革命技术" height="616" width="424"/>
 </p>
