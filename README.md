@@ -1,6 +1,6 @@
 # Technique du coup d'Etat, but renewing it in Seresian[^1]
 
-### Renewing a book published in 1931 by [Curzio Malaparte](https://en.wikipedia.org/wiki/Curzio_Malaparte), mentioned by [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek).
+### Renewing a book published in 1931 by [Curzio Malaparte](https://en.wikipedia.org/wiki/Curzio_Malaparte), [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) praised.
 <p align="center">
 <img src="https://github.com/AlphabutwithoutBeta/Technique-du-coup-d-Etat-but-a-CN-review-version/blob/main/directory/Curzio_Malaparte.jpg" alt="This is Curzio Malaparte"/>
 </p>
